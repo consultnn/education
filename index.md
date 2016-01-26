@@ -1,5 +1,6 @@
 ---
 layout: index
+title: ICC\Education by consultnn
 ---
 
 Steps
