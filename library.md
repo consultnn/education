@@ -13,7 +13,7 @@ title: Библиотека
 * [Паттерны проектирования](http://www.ozon.ru/context/detail/id/20217137/)
 * [PHP. Объекты, шаблоны и методики программирования](https://www.ozon.ru/context/detail/id/5648968/)
 * [Программист-прагматик. Путь от подмастерья к мастеру](http://www.ozon.ru/context/detail/id/3353337/)
-* http://12factor.net/
+* (http://12factor.net/)
 * [Джоэл о программировании](https://www.ozon.ru/context/detail/id/2820575/)
 
 Middle:
@@ -23,7 +23,7 @@ Middle:
 * [97 этюдов для архитекторов программных систем](https://www.ozon.ru/context/detail/id/5209853/)
 * [Идеальная архитектура. Ведущие специалисты о красоте программных архитектур](http://www.ozon.ru/context/detail/id/5430638/)
 
-http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
+(http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
 
 ##Менеджмент для программистов
 
