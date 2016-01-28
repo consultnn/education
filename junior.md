@@ -22,5 +22,5 @@ title: Junior
 
 1. OS - Ubuntu
 2. IDE - лучше PHPStorm, можно Eclipse или NetBeans
-3. ![PSR-2](http://www.php-fig.org/psr/psr-2/) - не забыть настроить поддержку в IDE
+3. [!PSR-2](http://www.php-fig.org/psr/psr-2/) - не забыть настроить поддержку в IDE
 4. !ООП
