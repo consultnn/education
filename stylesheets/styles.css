@@ -113,8 +113,13 @@ header menu a:hover, header menu a:active,  {
     color: #999;
 }
 
-head menu a {
+header menu {
+    padding: 0;
+}
+
+header menu a {
     display: block;
+    margin-bottom: 5px;
 }
 
 strong {
