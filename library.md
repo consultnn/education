@@ -10,7 +10,7 @@ title: Библиотека
 Всем:
 
 * [Совершенный код](http://www.ozon.ru/context/detail/id/5508646/)
-* [Паттерны проектирования](http://www.ozon.ru/context/detail/id/20217137/)
+* [Паттерны проектирования](http://www.ozon.ru/context/detail/id/31079082/)
 * [PHP. Объекты, шаблоны и методики программирования](https://www.ozon.ru/context/detail/id/5648968/)
 * [Программист-прагматик. Путь от подмастерья к мастеру](http://www.ozon.ru/context/detail/id/3353337/)
 * [The Twelve-Factor App](http://12factor.net/)
